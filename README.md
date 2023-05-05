@@ -7,4 +7,4 @@ Yadava, M., Kumar, P., Saini, R. et al. Analysis of EEG signals and its applicat
 Model architecture:
 
 
-<img src="./nm_model.png",title="Model_architecture"/>
+<img src="./nm_model.png" title="Model_architecture"/>
